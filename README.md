@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [UNDERTONE](https://github.com/wildcodeschool-2025-03/JS-WestDevs-P3-UnderTone)
 
-- 🌱 I’m currently learning **Express.js and MySQL**
+- 🌱 I’m currently learning **Next.js and Prisma ORM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
